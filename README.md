@@ -21,7 +21,9 @@ Clone then run:
 ```
     ./replace.sh <new project name>
 ```
-To replace istances of trdm in the project structure and relevant files
+To replace instances of trdm in the project structure and relevant files
+
+**The command above must be done before installing/compiling**
 
 Finally  
 
