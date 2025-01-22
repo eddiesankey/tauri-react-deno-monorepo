@@ -1,0 +1,10 @@
+{
+    "workspace": {
+        "members" : ["app"]
+    },
+    "vendor": true,
+    "nodeModulesDir": "auto",
+    "tasks": {
+        "tauri": "tauri"
+    }
+}

@@ -1,0 +1,3 @@
+[workspace]
+members = ["crates/trdm-tauri"]
+resolver = "2"
